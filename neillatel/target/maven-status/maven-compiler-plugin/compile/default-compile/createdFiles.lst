@@ -1,0 +1,13 @@
+hotel\usuario\model\usuario.class
+hotel\Main.class
+hotel\pagamento\controller\PagamentoController.class
+hotel\reserva\controller\ReservaController.class
+hotel\quarto\view\QuartoView.class
+hotel\pagamento\model\Pagamento.class
+hotel\usuario\controller\usuarioController.class
+hotel\pagamento\view\PagamentoView.class
+hotel\quarto\model\Quarto.class
+hotel\reserva\view\ReservaView.class
+hotel\quarto\controller\QuartoController.class
+hotel\usuario\view\usuarioView.class
+hotel\reserva\model\Reserva.class
